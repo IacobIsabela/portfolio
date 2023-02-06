@@ -30,25 +30,32 @@ const About = () => {
            <article className='about__card'>
           <FiAward className='about__icon'/>
           <h3>Experience</h3>
-          <small>No Experience--</small>
+          <small>Personal projects</small>
         </article>
 
            <article className='about__card'>
             <BsLightbulb className='about__icon'/>
-            <h3>Skillssss</h3>
-            <small>Those are my skills: </small>
+            <h3>Skills</h3>
+            <small> Teamwork </small>
+            <small> Fast learner </small>
+            <small> Hardworking </small>
         </article>
 
         <article className='about__card'>
             <AiOutlineFundProjectionScreen className='about__icon'/>
-            <h3>Projects</h3>
-            <small>Click here:--- </small>
+            <h3>Languages</h3>
+            <small>Italian </small>
+            <small>English </small>
+            <small>Romanian </small>
+
+
+
         </article>
 
       </div>
 
       <p>
-      mânia este un stat situat în sud-estul Europei Comice, România a introdus noi reforme economice de ordin general (precum cota unică de impozitare, în 2005) și a aderat la alianța politico-militară NATO la 29 martie 2004 și la Uniunea Europeană la 1 ianuarie 2007.
+      If I caught your attention, please contact me! 
       </p>
 
       <a href = "#contact" className='btn btn-primary'>Let's talk</a>

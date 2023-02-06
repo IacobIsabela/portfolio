@@ -11,34 +11,58 @@ const Services = () => {
         <div className="container services__container">
             <article className='service'>
                 <div className="service__head">
-                    <h3>Buzzz</h3>
+                    <h3>Movies</h3>
                 </div>
 
                 <ul className="service_list">
                 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>History movies.</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>SF movies.</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Thriller movies.</p>
+                  </li>
+
+                  
+
+                </ul>
+            </article>
+
+            <article className='service'>
+                <div className="service__head">
+                    <h3>Economy.</h3>
+                </div>
+
+                <ul className="service_list">
+                
+                  
+
+                  <li>
+                    <AiOutlineCheck className='service_list-icon'/>
+                    <p>Understanding economic phenomenon.</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Accounting</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Investing</p>
+                  </li>
+
+                  <li>
+                    <AiOutlineCheck className='service_list-icon'/>
+                    <p>Statistics</p>
                   </li>
 
                 </ul>
@@ -46,70 +70,32 @@ const Services = () => {
 
             <article className='service'>
                 <div className="service__head">
-                    <h3>buzzz</h3>
+                    <h3>Books</h3>
                 </div>
 
                 <ul className="service_list">
                 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Biographies</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Psychological</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Fantasy</p>
                   </li>
 
                   <li>
                     <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Poetry</p>
                   </li>
 
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
-
-                </ul>
-            </article>
-
-            <article className='service'>
-                <div className="service__head">
-                    <h3>BUZZZ</h3>
-                </div>
-
-                <ul className="service_list">
-                
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
-
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
-
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
-
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
-
-                  <li>
-                    <AiOutlineCheck className='service_list-icon'/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </li>
+                  
 
                 </ul>
             </article>

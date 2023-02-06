@@ -192,6 +192,11 @@ img{
     section{
         margin-top: 6rem;  
     }
+    img{
+        display:none; 
+        width: 100%; 
+        object-fit: cover;
+    }
 }
 
 
@@ -213,5 +218,11 @@ img{
 
     .btn {
         margin-left: 1.5rem;
+    }
+
+    img{
+        display:none; 
+        width: 100%; 
+        object-fit: cover;
     }
 }

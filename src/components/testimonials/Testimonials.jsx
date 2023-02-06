@@ -18,26 +18,26 @@ import 'swiper/css/pagination';
 const data = [
   {
   avatar:cat,
-  name: 'chess',
+  name: 'I love animals, but my cats are my biggest love. ',
   review: 'Cats '
   }, 
 
   {
     avatar:chess,
-    name: 'cat',
+    name: 'Whenever I have the opportunity, I love playing chess. I find it a very challenging game, and even though the game can be simple, it is not.  ',
     review: 'Chess '
     }, 
 
 
   {
     avatar:books,
-    name: 'books',
+    name: 'Mihail Bulgakov, Feodor Dostoievski, Mircea Eliade, Camil Petrescu',
     review: 'Books '
     }, 
 
     {
       avatar:food,
-      name: 'food',
+      name: 'I love cooking and eating delicious food',
       review: 'Food '
       }, 
 
@@ -51,7 +51,7 @@ const Testimonials = () => {
   
   return (
     <section id ='testimonials'>
-          <h5>What do I like to do?</h5>
+          <h5>Passions &</h5>
           <h2>Hobbies</h2>
 
 

@@ -3,6 +3,7 @@ import './portofolio.css'
 import moody from '../../assets/moody.jpg'
 import arcSpace from '../../assets/arcSpace.jpg'
 import about from '../../assets/about.jpg'
+import snake_game from '../../assets/images.jpg'
 
 
 
@@ -17,18 +18,18 @@ const data = [
 
   {
     id:2,
-    image:moody,
-    title:'MOODY',
+    image:snake_game,
+    title:'Snake Game',
     github:'',
-    demo:''
+    demo:'https://snaky-snaky.netlify.app/'
   },
 
   {
     id:3,
     image:about,
-    title:'Presentation page',
+    title:'Weather App',
     github:'',
-    demo:''
+    demo:'https://weather-time-weather.netlify.app/'
   },
 
   //la urmatoarele creste id-ul, exemplu urmatorul va fi id=3; 
