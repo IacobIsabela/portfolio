@@ -196,6 +196,10 @@ img{
         width: 100%; 
         object-fit: cover;
     }
+    
+    .me img {
+        display: none;
+    }
 }
 
 
@@ -222,5 +226,9 @@ img{
     img{ 
         width: 100%; 
         object-fit: cover;
+    }
+    
+    .me img {
+        display: none;
     }
 }
