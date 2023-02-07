@@ -192,8 +192,7 @@ img{
     section{
         margin-top: 6rem;  
     }
-    img{
-        display:none; 
+    img{ 
         width: 100%; 
         object-fit: cover;
     }
