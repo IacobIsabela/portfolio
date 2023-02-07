@@ -18,11 +18,6 @@
     color: rgb(217, 34, 237);
 }
 
-@media screen and (max-width: 1600px){
-    .bouncing__text{
-        margin-top: 11.5rem;
-    }
-       }
 
 
 @media screen and (max-width:600px){
