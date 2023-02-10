@@ -15,10 +15,10 @@ const header = () => {
           
         <div className='header_left'> 
             <MyBouncingText/>
-            <CTA/> 
             <HeaderSocials/>
+            <CTA/>
             <a href="#contact" className='scroll__down'>Scroll Down</a>
-        
+              
         </div>
              
 
@@ -29,7 +29,6 @@ const header = () => {
 
         </div>
          
-
       </div>
 
         

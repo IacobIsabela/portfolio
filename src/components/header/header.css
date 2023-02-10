@@ -21,8 +21,7 @@ header{
 
 
 /* CTA */
-.cta{
-    margin-top: 2.5rem; 
+.cta{ 
     display:flex; 
     gap:1.2rem; 
     justify-content: center;
@@ -95,8 +94,14 @@ header{
          
     
         }
+ 
 }
 
+@media screen and (max-width:890px){
+    .cta a {
+        height:100%
+    }
+}
 /* media small devices */
 @media screen and (max-width:600px){
     header{
@@ -122,6 +127,9 @@ header{
          
          
     
+        }
+        .cta {
+            margin-top: 2.5rem;
         }
 
     
